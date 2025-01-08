@@ -5,7 +5,7 @@
 
 - 🔭 Attualmente sto lavorando su [TerritAPI](https://www.territ.it)
 
-- 🌱 Attualmente sto imparando **React, Nodejs e Spring**
+- 🌱 Attualmente sto imparando **React, NodeJS, NextJS e Spring**
 
 - ⚡**Ascolto musica e mi piace leggere**
 
