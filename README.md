@@ -5,7 +5,7 @@
 
 - 🌱 Attualmente sto studiando **Ingegneria Informatica**, apprendendo molto
 
-- ⚡**Ascolto musica e mi piace il simracing**
+- ⚡**Ascolto musica, mi piace allenarmi (ibrido) e sono appassionato di F1**
 
 <p align="left">
 </p>
